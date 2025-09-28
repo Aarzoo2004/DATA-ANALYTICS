@@ -79,5 +79,3 @@ Both projects involved:
 * **MySQL Workbench**
 
 ---
-
-If you want, I can **also make this even shorter and visually appealing with emojis and bullet points** to make it perfect for GitHub. Do you want me to do that?
